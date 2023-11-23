@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J+z/fsloumMaM/MnRcSXxgbR0jk9Y35TCZrrS4yFRMrDlnCb1Dt6IKcSh7P5y9fINc1wTHwKeMctgJNiBkw8Qw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\macha\\Documents\\A - FOA\\CSharp\\trab_avd2_28112023\\Lanchonete_28_11_AVD2\\Lanchonete_AVD2\\Lanchonete_AVD2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\macha\\.nuget\\packages\\mstest.testframework\\3.1.1\\mstest.testframework.3.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
